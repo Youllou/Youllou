@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Youllou
 - 👀 I’m interested in quite many things, music for sure, animes, games but also paint, photography, cats
-- 🌱 I’m currently learning Tech stuff (in a IT school)
+- 🌱 I’m currently learning Tech stuff (in a Computer Science school that would be equivalent to a BEng)
