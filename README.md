@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm [Youllou](https://youllou.com)
 <table>
   <tr>
     <td>
@@ -6,9 +6,10 @@
        <ul>
         <li>🎓 &nbsp; Student in software engineering at <a href="https://www.etsmtl.ca/">ÉTS.</a></li>
         <li>🎯 &nbsp; Informatics solutions architect </li>
+        <li>🔗 &nbsp; Visit my website <a href="https://youllou.com">Youllou.com</a></li>
         <li>📧 &nbsp; How to reach me:
           <p align="left">
-            <a href="mailto:juless.barbier@gmail.com"><img src="https://img.shields.io/badge/Gmail-9E3223?style=for-the-badge&logo=gmail"/></a>  
+            <a href="mailto:contact@youllou.com"><img src="https://img.shields.io/badge/Mail-be67be?style=for-the-badge&logo=maildotru"/></a>  
             <a href="https://www.linkedin.com/in/jules-barbier-bordere"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
             <a href="https://discord.com/users/280464892258025473"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
           </p>
@@ -16,7 +17,7 @@
        </ul>
        <p align="center">
          <br>
-           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Youllou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Youllou&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
          <br>
       </p>
     </td>
@@ -24,10 +25,10 @@
       <h2> 📈 &nbsp;Stats </h2>
       <p align="center">
           <div>
-              <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youllou&langs_count=4&theme=algolia&layout=compact"/>
+              <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youllou&langs_count=4&theme=synthwave&layout=compact"/>
           </div>
           <div>
-              <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Youllou&theme=algolia" alt="oribendet"/>
+              <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Youllou&theme=synthwave" alt="GitHub Streak" /></a>
           </div>
       </p>
     </td>
